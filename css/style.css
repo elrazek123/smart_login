@@ -1,0 +1,28 @@
+form{
+    background-color: #24353f;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.26);
+-webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.26);
+-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.26);
+}
+form h1{
+    color: #17a2b8;
+}
+input{
+    background-color: #24353f;
+    border: .5px solid white;
+}
+.link
+{
+color:#17a2b8;
+background-color: #24353f;
+border-color: #17a2b8;
+text-transform: capitalize;
+}
+body{
+background-color: #24353f;
+}
+.link:hover
+{
+    color:#24353f ;
+    background-color:#17a2b8 ;
+}
