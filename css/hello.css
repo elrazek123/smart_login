@@ -1,0 +1,29 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    padding: none;
+    margin: none;
+}
+body{
+    height: 1000px;
+}
+div{
+    position: absolute;
+    top: 40%;
+    color: #179eb4;
+    box-shadow: 10px 10px 5px 5px rgba(0,0,0,0.26);
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.26);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.26);
+}
+body{
+    position: relative;
+    background-color: #24353f;
+}
+nav{
+    color: white;
+    background-color:#24353f;
+    box-shadow: 10px 10px 5px 5px rgba(0,0,0,0.26);
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.26);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.26);
+}
